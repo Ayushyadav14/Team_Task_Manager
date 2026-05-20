@@ -1,0 +1,6 @@
+[submodule "Team_Task_Manager_Spring"]
+	path = Team_Task_Manager_Spring
+	url = https://github.com/Ayushyadav14/Team_Task_Manager_Spring.git
+[submodule "team_task_manager_react_js"]
+	path = team_task_manager_react_js
+	url = https://github.com/Ayushyadav14/team_task_manager_react_js.git
