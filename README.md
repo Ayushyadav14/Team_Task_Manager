@@ -245,8 +245,6 @@ All endpoints are prefixed with `/api`. Full details are in the [backend README]
 
 ---
 
-## Screenshots
-
 > Access the live demo at [team-task-manager-react-js.onrender.com](https://team-task-manager-react-js.onrender.com/dashboard) using the admin credentials above.
 
 | View | Description |
