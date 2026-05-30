@@ -2,7 +2,7 @@
 
 A full-stack team collaboration and project management application built with **React.js** (frontend) and **Spring Boot** (backend). It provides role-based dashboards, Kanban task tracking, project management, and team oversight — all in a clean, responsive UI.
 
-🔗 **Live Demo:** [team-task-manager-react-js.onrender.com](https://team-task-manager-react-js.onrender.com/dashboard)
+🔗 **Live Demo:** [team-task-manager-react-js.onrender.com](https://team-task-manager-react-js.onrender.com/login)
 
 > **Demo Credentials (Admin)**
 > - Email: `admin@gmail.com`
@@ -245,7 +245,7 @@ All endpoints are prefixed with `/api`. Full details are in the [backend README]
 
 ---
 
-> Access the live demo at [team-task-manager-react-js.onrender.com](https://team-task-manager-react-js.onrender.com/dashboard) using the admin credentials above.
+> Access the live demo at [team-task-manager-react-js.onrender.com](https://team-task-manager-react-js.onrender.com/login) using the admin credentials above.
 
 | View | Description |
 |---|---|
